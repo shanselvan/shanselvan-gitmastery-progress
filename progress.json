@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768575876.594127,
+    "completed_at": 1768575878.27532,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768576860.20543,
+    "completed_at": 1768576861.855994,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768559793.691644,
+    "completed_at": 1768559796.851874,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768575219.659402,
+    "completed_at": 1768575221.238944,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768484166.09893,
+    "completed_at": 1768484167.599037,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
